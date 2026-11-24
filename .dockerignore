@@ -1,0 +1,10 @@
+**/.git
+**/.vs
+**/.vscode
+**/bin
+**/obj
+**/*.user
+**/*.suo
+**/TestResults
+**/*.md
+!PROJECT_2_ENTERPRISE_DOTNET_SPEC.md
