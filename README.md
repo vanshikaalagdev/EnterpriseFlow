@@ -1,11 +1,15 @@
 # 🏛️ EnterpriseFlow — Enterprise Contract & Workflow Engine
 
 [![.NET 8](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Swagger%20UI-success.svg)](https://enterpriseflow-1-oxes.onrender.com)
 [![Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-brightgreen.svg)](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture)
 [![Pattern](https://img.shields.io/badge/Pattern-CQRS%20with%20MediatR-purple.svg)](https://github.com/jbogard/MediatR)
 [![Database](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org/)
-[![Caching](https://img.shields.io/badge/Redis-7-red.svg)](https://redis.io/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ed.svg)](https://www.docker.com/)
+
+> 🌐 **Live Interactive Swagger Documentation & Demo:**  
+> 👉 **[https://enterpriseflow-1-oxes.onrender.com](https://enterpriseflow-1-oxes.onrender.com)**  
+> *(Test contract creation, review approval gates, and compliance audit logs directly in your browser!)*
 
 An enterprise-grade contract lifecycle and compliance workflow engine built according to **Clean Architecture** and **CQRS (Command Query Responsibility Segregation)** principles with **ASP.NET Core 8**, **Entity Framework Core 8**, **PostgreSQL**, **Redis**, and **Docker**.
 
